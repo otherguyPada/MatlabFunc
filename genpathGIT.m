@@ -23,6 +23,7 @@ if nargin==0,
   return
 end
 %For test
+%For test2
 % initialise variables
 classsep = '@';  % qualifier for overloaded class directories
 packagesep = '+';  % qualifier for overloaded package directories
