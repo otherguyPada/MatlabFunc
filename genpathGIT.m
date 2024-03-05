@@ -22,7 +22,7 @@ if nargin==0,
   if length(p) > 1, p(end) = []; end % Remove trailing pathsep
   return
 end
-
+%For test
 % initialise variables
 classsep = '@';  % qualifier for overloaded class directories
 packagesep = '+';  % qualifier for overloaded package directories
